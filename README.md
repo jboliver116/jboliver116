@@ -6,23 +6,21 @@
 </div>
 
 <h1 align="center">Olá 👋, Eu sou {Joabe oliveira}</h1>
-<h3 align="center">{desenvolvedor Front-end} residente em {serrinha-bahia}/{Brasil}.</h3>
-<p align="center">{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</p>
+<h3 align="center">{Desenvolvedor Front-end} residente em {serrinha-bahia}/{Brasil}.</h3>
+<p align="center">{desenvolvedor/ programador , com estudos focados nas linguagens : html, css, jscript}</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manualdofront" /> </p>
-
-> _🚨☝️ Lembre-se de trocar as citações por "manualdofront" no link acima pelo seu username do Github e remover esse comentário._
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jboliver116&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manualdofront" /> </p>
 
 - 🔭 Atualmente, eu trabalho na [Nome-da-empresa](https://site-da-empresa.com/).
 
-- 🌱 Meus estudos atuais focam em **Front End (Angular, JavaScript and TypeScript)** e **Application Design (Hexagonal Architecture)**.
+- 🌱 Meus estudos atuais focam em **Front End (Html, css and JavaScript)** e **Application Design (Hexagonal Architecture)**.
 
-- 📫 Este é meu e-mail para contato: **contatomanualdofront@gmail.com**
+- 📫 Este é meu e-mail para contato: **oliveiradejesusjoabe@gmail.com**
 
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,angular)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=html,css,jscript)]()
 
 > _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
 
