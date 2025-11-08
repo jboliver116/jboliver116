@@ -22,9 +22,6 @@
 
 [![Minhas habilidades](https://skillicons.dev/icons?i=html,css,javascript)]()
 
-> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
-
-
 <h3 align="left">Entre em contato comigo:</h3>
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/manualdofront/)
