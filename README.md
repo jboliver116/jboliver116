@@ -13,14 +13,14 @@
 
 - 🔭 Atualmente, eu trabalho na [Nome-da-empresa](https://site-da-empresa.com/).
 
-- 🌱 Meus estudos atuais focam em **Front End (Html, css and JavaScript)** e **Application Design (Hexagonal Architecture)**.
+- 🌱 Meus estudos atuais focam em **Front End (Html, css and JavaScript)** e **Application Design**.
 
 - 📫 Este é meu e-mail para contato: **oliveiradejesusjoabe@gmail.com**
 
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=html,css,jscript)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=html,css,javascript)]()
 
 > _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
 
