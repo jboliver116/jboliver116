@@ -27,4 +27,3 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/manualdofront/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contatomanualdofront@gmail.com)
 
-> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar seus contatos [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list). **Lembre-se de atualizar os links para SUAS redes sociais!**_
