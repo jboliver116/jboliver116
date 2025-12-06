@@ -13,7 +13,7 @@
 
 - 🔭 Atualmente, eu trabalho na [Nome-da-empresa](https://site-da-empresa.com/).
 
-- 🌱 Meus estudos atuais focam em **Front End (Html, css and JavaScript)** e **Application Design**.
+- 🌱 Meus estudos atuais focam em **Front End (Html, css and JavaScript).
 
 - 📫 Este é meu e-mail para contato: **oliveiradejesusjoabe@gmail.com**
 
